@@ -1,4 +1,4 @@
-#                Eu sou Vinícius Oliveira
+#                Eu sou Vinícius Abreu de Oliveira
 
 #### Sou um apaixonado em tecnologia que adora estar buscando atualizações sobre o assunto.
 
