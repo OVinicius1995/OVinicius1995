@@ -2,7 +2,7 @@
 
 #### Sou um apaixonado em tecnologia que adora estar buscando atualizações sobre o assunto.
 
-(https://www.postman.com/)
+[Postman](https://www.postman.com/)
 
 Uma breve descrição sobre mim e meus repositórios:
 
