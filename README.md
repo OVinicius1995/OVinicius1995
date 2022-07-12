@@ -2,6 +2,8 @@
 
 #### Sou um apaixonado em tecnologia que adora estar buscando atualizações sobre o assunto.
 
+(https://www.postman.com/)
+
 Uma breve descrição sobre mim e meus repositórios:
 
 - Primeira eu sempre estive na área de tecnologia e tive meus primeiros contatos em um curso profissionalizante na área (isso com uns 12 para 13 anos de idade), na sequência comecei a estudar no Cotemig onde foi desperta a minha paixão pela tecnologia. Eu descobri que adoro banco de dados (principalmente o SQL kkk) mas gosto no geral de criar e gerar informações com uso de montagem de consultas bem estruturadas, e gosto muito de criar os relacionamentos das tabelas (acho incrível). Eu sempre estive envolto na área de tecnologia, porem por ironia do destino eu não comecei minha jornada na área de desenvolvimento, pois eu sempre gostei muito de trabalhar e geralmente fico longos períodos nas empresas mas como bom desenvolvedor que sou sempre busquei recursos para praticar minha paixão pelo desenvolvimento.
