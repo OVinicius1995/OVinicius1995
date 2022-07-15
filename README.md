@@ -48,15 +48,19 @@
 
 
 
-###### <img src="https://i.ibb.co/xFh3T6n/English.png" align="left"  alt="Certified" width="40" height="40"/> Sigo buscando conhecimentos também para me certificar em inglês (IELTS).
+###### <img src="https://i.ibb.co/xFh3T6n/English.png" align="left"  alt="Certified" width="30" height="30"/> Sigo buscando conhecimentos também para me certificar em inglês (IELTS).
 
 
 
-###### <img src="https://i.ibb.co/wznwkR6/dream2.png" align="left"  alt="Certified" width="40" height="40"/> Sonho também em um dia me certificar em Java e Oracle.
+
+
+###### <img src="https://i.ibb.co/wznwkR6/dream2.png" align="left"  alt="Certified" width="35" height="35"/> Sonho também em um dia me certificar em Java e Oracle.
 
 
 
-###### :rocket::rocket: :rocket:                                                                                                                                           :rocket::rocket::rocket: 
+
+
+###### :rocket::rocket: :rocket: 
 
 <hr size="5" width="100%" align="center" noshade></hr>
 
