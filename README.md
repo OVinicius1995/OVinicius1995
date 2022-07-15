@@ -1,22 +1,77 @@
-#                Eu sou Vinícius Abreu de Oliveira
-
-#### Sou um apaixonado em tecnologia que adora estar buscando atualizações sobre o assunto.
-
-<img width="100px" align="right" src="https://i.ibb.co/NY2zThn/7a9f33a7-132d-4ac1-86bb-dab62df9f902.jpg">
-
-### <p>🖥️ Áreas de Conhecimentos:</p>
+<h1>  Hello World!! 🌎 </h1>
 
 
 
-<p align="left"></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a><a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/></a><a href="https://cucumber.io" target="_blank" rel="noreferrer"><a href="https://robotframework.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_robotframework.svg" alt="robot-framework" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></p>
+<img width="200px" align="right" src="https://i.ibb.co/NY2zThn/7a9f33a7-132d-4ac1-86bb-dab62df9f902.jpg">
 
 
 
 
 
+### Uma breve descrição sobre mim:
+
+<hr size="5" width="100%" align="center" noshade></hr>
+
+#### Sou Vinícius Oliveira 👋
+
+###### Tenho 27 anos, moro em Minhas Gerais região metropolitana de BH, sou amante por desenvolvimento e tecnologia, atuo como QA em um ERP voltado para área de saúde. Amo aprender coisas, e tenho um ditado que é: O que não me desafia não me transforma. Sei que é um dito muito falado porem eu sou movido por desafios, principalmente desafios que me levem a buscar sobre uma nova tecnologia ou uma nova linguagem, e adoro aprender coisas novas.
+
+######  :man_student: Sou graduando em engenharia de software.
+
+###### :thinking: Sou amante de desenvolvimento e pensamento lógico.  
+
+###### Um amante de banco de dados :information_source: 
+
+###### :maple_leaf: Um amante de línguas estrangeiras (consigo me comunicar, escrever, ler e ouvir muto bem, pois fiz um curso de inglês até o final. E amo o inglês). 
+
+###### :desktop_computer: E um responsável pela qualidade do software de uma empresa, que sonha em um dia ser o desenvolvedor. 
+
+###### 📘 Atualmente concluindo o curso de Testes de Software na [Mentorama](https://mentorama.com.br).
+
+###### 📚 Estudando frameworks de automação de testes como TesteComplet, Robot framework, e também sigo buscando conhecimentos na área de testes como criação de BDD's, TDD's, e também sobre ferramentas para criação de casos de teste como Cucumber.
+
+###### <img src="https://i.ibb.co/f2MV3dJ/Certified.png" align="left"  alt="Certified" width="20" height="20"/> Sigo estudando também o Syllabus para me certificar na área de testes.
+
+###### <img src="https://i.ibb.co/xFh3T6n/English.png" align="left"  alt="Certified" width="40" height="40"/> Sigo buscando conhecimentos também para me certificar em inglês (IELTS).
 
 
-Uma breve descrição sobre mim e meus repositórios:
+
+###### :rocket: :rocket: :rocket: 
+
+<hr size="5" width="100%" align="center" noshade></hr>
+
+### 🖥️ Áreas de Conhecimentos:
+
+​	<img width="200px" align="right" src="https://i.ibb.co/wzXnb5N/Conhecimento.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p align="left"><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="HTML5" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/w4QLvTP/html5.png" alt="html5" width="40" height="40"/></a><a href="CSS" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/JrNQ2V6/css.png" alt="css3" width="40" height="40"/></a><a href="MySql" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/5Ys4ry8/images.png" alt="MySql" width="40" height="40"/></a><a href="Firebird" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/wBQzT4x/Firebird.png" alt="Firebird" width="40" height="40"/></a><a href="C#" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/qYcJvBm/C.png" alt="C#" width="40" height="40"/></a><a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/bQ0k9KJ/java.png" alt="Java" width="40" height="40"/></a><a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/></a><a href="https://cucumber.io" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/9YyVbvd/Cucumber.png" alt="Cucumber" width="40" height="40"/></a><a href="https://robotframework.org" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/4JqGSx3/robot.png" alt="Robot-Framework" width="40" height="40"/></a><a href="https://smartbear.com/product/testcomplete/overview/" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/nw5C56D/Sem-t-tulo.png" alt="TestComplet" width="40" height="40"/></a><a href="https://www.atlassian.com/software/jira?&aceid=&adposition=&adgroup=89541912182&campaign=9124878210&creative=542638230371&device=c&keyword=%2Batlassian%20%2Bjira&matchtype=b&network=g&placement=&ds_kids=p51394404101&ds_e=GOOGLE&ds_eid=700000001558501&ds_e1=GOOGLE&gclid=CjwKCAjwoMSWBhAdEiwAVJ2ndhcYZXbV0DMOr9M_ilJIsCaUB9lGtKvRiGd_gMTj43Rkq5Ay7pMgrBoCOSwQAvD_BwE&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/Q9V97TY/JS.png" alt="JavaScript" width="40" height="40"/></a><a href="" target="_blank" rel="noreferrer"><img src="https://i.ibb.co/qCKdN6c/Jyra.png" alt="Jyra" width="40" height="40"/></a></p>
+
+
+
+<hr size="5" width="100%" align="center" noshade></hr>
+
+<h3 align="left">Vamos trocar uma ideia?</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/vinicius-oliveira-tecnico-suporte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius Oliveira" height="30" width="40" /></a>
+<hr size="5" width="100%" align="center" noshade>
+
+
+
+## Uma descrição mais completa sobre mim e meus repositórios:
+
+
 
 - Primeira eu sempre estive na área de tecnologia e tive meus primeiros contatos em um curso profissionalizante na área (isso com uns 12 para 13 anos de idade), na sequência comecei a estudar no Cotemig onde foi desperta a minha paixão pela tecnologia. Eu descobri que adoro banco de dados (principalmente o SQL kkk) mas gosto no geral de criar e gerar informações com uso de montagem de consultas bem estruturadas, e gosto muito de criar os relacionamentos das tabelas (acho incrível). Eu sempre estive envolto na área de tecnologia, porem por ironia do destino eu não comecei minha jornada na área de desenvolvimento, pois eu sempre gostei muito de trabalhar e geralmente fico longos períodos nas empresas mas como bom desenvolvedor que sou sempre busquei recursos para praticar minha paixão pelo desenvolvimento.
 - Como dito anteriormente apesar de nunca ter trabalhado com desenvolvimento eu tive alguns projetos criados ao longo da vida e das empresas por onde passei. Um deles foi o anti-vírus de pendrive, visto que na empresa onde eu trabalhava haviam vários computadores e vários usuários por ser uma faculdade e por esse motivo havia muita perda de dados por causa de um vírus enjoado que transformava tudo em atalho e alterava a extensão dos arquivos originais para oculto e criava atalhos fakes com os nomes dos arquivos originais que ao clicar disparava mais vírus como esse nos computadores. Como eu fazia parte da equipe responsável pela tecnologia eu era responsável pela limpeza e recuperação dos dados desses pendrives,  dada então a necessidade surgiu então uma solução criei um anti-vírus que bastava selecionar a unidade do pendrive e ele fazia a limpeza, remoção, e recuperação dos dados daquele pendrive, este projetinho se encontra no repositório anti-vírus.
@@ -31,21 +86,9 @@ Porem com tanta história acabei me esquecendo de me apresentar melhor e de dize
 
 Hoje sou graduando em engenharia de software, e venho estudando muito para voltar para minha área natural. OBS: Além desses projetinhos ainda participei de um Hackathon onde criei e sigo evoluindo um site que tenta proporcionar uma melhoria financeira na vida dos usuários, onde a ideia e o site analisar os gastos e classifica-los, e ainda dar algumas dicas econômicas para os usuários (este projeto fica em hacka), e também tem os projetos da facul que fica Projetos_Uni.
 
-## Considerações finais: 
-
-###### Eu sou o Vinícius Oliveira um possível dev de responsa que se perdeu no caminho porem que foi ressuscitado pelo incentivo da empresa, e que tem tudo para ser uma mente brilhante por onde passar.
-
-###### Sou graduando em engenharia de software :man_student: .
-
-###### Sou amante de desenvolvimento e pensamento lógico. :thinking: 
-
-###### Um amante de dados :information_source: 
-
-###### Um amante de línguas estrangeiras (consigo me comunicar, escrever, ler e ouvir muito bem, pois fiz um cursinho de inglês até o final. E amo o inglês). :maple_leaf: 
-
-###### E um responsável pela qualidade do software de uma empresa, que sonha em um dia ser o desenvolvedor. :desktop_computer: 
-
-###### Tenho 27 anos e muitos sonhos para realizar. :older_man: 
-
-:rocket: :rocket: :rocket: 
+<div align="center">
+  <a href="https://github.com/OVinicius1995">
+  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OVinicius1995&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OVinicius1995&layout=compact&langs_count=8&theme=algolia"/>
+</div>
 
