@@ -18,7 +18,7 @@
 
 <h1><a href ="#" style="text-decoration:none;font-family:courier,arial,helvetica;">@Then</a></h1> 
 
-<br><br><br><br><br><br>
+<br><br>
 
 ### Uma breve descrição sobre mim:
 
