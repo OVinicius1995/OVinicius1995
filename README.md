@@ -8,6 +8,8 @@
 
 
 
+<br><br>
+
 ### Uma breve descrição sobre mim:
 
 <hr size="5" width="100%" align="center" noshade></hr>
