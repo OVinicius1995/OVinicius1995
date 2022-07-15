@@ -2,15 +2,21 @@
 
 
 
-<img width="200px" align="right" src="https://i.ibb.co/NY2zThn/7a9f33a7-132d-4ac1-86bb-dab62df9f902.jpg">
+<img width="180px" align="right" src="https://i.ibb.co/NY2zThn/7a9f33a7-132d-4ac1-86bb-dab62df9f902.jpg">
 
 
 
 
 
-<h1>  @Test  </h1>
 
-<br><br><br><br><br><br><br><br>
+
+<h1><a href ="#" style="text-decoration:none;font-family:courier,arial,helvetica;">@Given</a></h1>
+
+<h1><a href ="#" style="text-decoration:none;font-family:courier,arial,helvetica;">@When</a></h1> 
+
+<h1><a href ="#" style="text-decoration:none;font-family:courier,arial,helvetica;">@Then</a></h1> 
+
+<br><br><br><br><br><br><br><br><br>
 
 
 
@@ -40,11 +46,17 @@
 
 ###### <img src="https://i.ibb.co/f2MV3dJ/Certified.png" align="left"  alt="Certified" width="20" height="20"/> Sigo estudando também o Syllabus para me certificar na área de testes.
 
+
+
 ###### <img src="https://i.ibb.co/xFh3T6n/English.png" align="left"  alt="Certified" width="40" height="40"/> Sigo buscando conhecimentos também para me certificar em inglês (IELTS).
 
 
 
-###### :rocket: :rocket: :rocket: 
+###### <img src="https://i.ibb.co/wznwkR6/dream2.png" align="left"  alt="Certified" width="40" height="40"/> Sonho também em um dia me certificar em Java e Oracle.
+
+
+
+###### :rocket::rocket: :rocket:                                                                                                                                           :rocket::rocket::rocket: 
 
 <hr size="5" width="100%" align="center" noshade></hr>
 
