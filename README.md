@@ -90,7 +90,7 @@
 
 <h3 align="left">Vamos trocar uma ideia?</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinicius-oliveira-tecnico-suporte/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius Oliveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinicius-oliveira-tecnico-suporte/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius Oliveira" height="30" width="40" /></a>
 <hr size="5" width="100%" align="center" noshade>
 
 
@@ -117,4 +117,3 @@ Hoje sou graduando em engenharia de software, e venho estudando muito para volta
   <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OVinicius1995&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=OVinicius1995&layout=compact&langs_count=8&theme=algolia"/>
 </div>
-
