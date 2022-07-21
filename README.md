@@ -90,7 +90,7 @@
 
 <h3 align="left">Vamos trocar uma ideia?</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vinicius-oliveira-tecnico-suporte/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius Oliveira" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinicius-oliveira-tecnico-suporte/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vinicius Oliveira" height="30" width="40" target="_blank"/></a>
 <hr size="5" width="100%" align="center" noshade>
 
 
