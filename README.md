@@ -42,6 +42,8 @@
 
 ###### 📚 Estudando frameworks de automação de testes como TesteComplet, Robot framework, e também sigo buscando conhecimentos na área de testes como criação de BDD's, TDD's, e também sobre ferramentas para criação de casos de teste como Cucumber.
 
+###### 📚 Estudando Também sobre desenvolvimento Java, Delphi.
+
 ###### <img src="https://i.ibb.co/f2MV3dJ/Certified.png" align="left"  alt="Certified" width="20" height="20"/> Sigo estudando também o Syllabus para me certificar na área de testes.
 
 
