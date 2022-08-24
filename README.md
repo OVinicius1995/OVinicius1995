@@ -28,11 +28,11 @@
 
 ###### Tenho 27 anos, moro em Minhas Gerais região metropolitana de BH, sou amante por desenvolvimento e tecnologia, atuo como QA em um ERP voltado para área de saúde. Amo aprender coisas, e tenho um ditado que é: O que não me desafia não me transforma. Sei que é um dito muito falado porem eu sou movido por desafios, principalmente desafios que me levem a buscar sobre uma nova tecnologia ou uma nova linguagem, e adoro aprender coisas novas.
 
-######  :man_student: Sou graduando em engenharia de software.
+######  :man_student: Sou graduando em engenharia de software [Unicesumar](https://inscricoes.unicesumar.edu.br).
 
 ###### :thinking: Sou amante de desenvolvimento e pensamento lógico.  
 
-###### :information_source: Um amante de banco de dados 
+###### :information_source: Um amante de banco de dados. 
 
 ###### :maple_leaf: Um amante de línguas estrangeiras (consigo me comunicar, escrever, ler e ouvir muto bem, pois fiz um curso de inglês até o final. E amo o inglês). 
 
