@@ -77,6 +77,8 @@
   <img height="160px" display="flex" src="https://github-readme-stats.vercel.app/api?username=OVinicius1995&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="160px" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OVinicius1995&layout=compact&langs_count=8&theme=algolia"/>
 </div><br><br>
+  
+  ![Snake animation](https://github.com/OVinicius1995/OVinicius1995/blob/output/github-contribution-grid-snake.svg)
 
 <div>
 
