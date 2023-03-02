@@ -43,6 +43,10 @@
 
 ### 🖥️ Áreas de Conhecimentos:
         
+<div style="display: inline_block" align="right">
+<img src="https://i.ibb.co/gybdLZ7/picasion-com-0ae303599c9c1a2fbd0dfa25ee01e57f.gif" alt="picasion-com-0ae303599c9c1a2fbd0dfa25ee01e57f" border="0">
+</div>
+
 <div style="display: inline_block" align="center"><br>
 
           
