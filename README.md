@@ -4,9 +4,7 @@
 <img width="180px" align="right" src="https://i.ibb.co/NY2zThn/7a9f33a7-132d-4ac1-86bb-dab62df9f902.jpg">
 
 
-<h1><a href ="#" style="text-decoration:none;font-family:courier,arial,helvetica;">boolean café;</a></h1>
-
-<h1><a href ="#" style="text-decoration:none;font-family:courier,arial,helvetica;">café = true;</a></h1> 
+<h1><a href ="#" style="text-decoration:none;font-family:courier,arial,helvetica;">let cafe;</a></h1>
 
 <h1><a href ="#" style="text-decoration:none;font-family:courier,arial,helvetica;">while (café);</a></h1> 
 
