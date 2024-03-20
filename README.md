@@ -1,4 +1,4 @@
-<h1> < Hello World!! /> 🌎 </h1> 
+<h1> Hello World!! 🌎 </h1> 
   
 
 <img width="180px" align="right" src="https://i.ibb.co/NY2zThn/7a9f33a7-132d-4ac1-86bb-dab62df9f902.jpg">
